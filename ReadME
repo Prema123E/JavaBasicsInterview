@@ -1,0 +1,18 @@
+1) See the package "question1" . Implemented the Sing method in Bird class
+a) did the unit test in Main class bird.sing ()-- run the main "Solution" file--> you will get the result of bird method.
+b)I have optimized the code by using abstract class in the interface and polimorphism concept override. which has single method name with different behaviours.
+code is optimized by changing the Animal class to abstract class ( Interface contains abstract class where the method is declared but not defined).
+
+
+2) Implemented Duck and chicken by inheriting the Bird class in "question1" package
+
+3) Run the solution file "question3" package - implemented the rooster model.
+a. As mentioned rooster says "cock-a-doodle-doo"
+b. rooster is related to chicken by its gender.
+c. used the gender variable and applied if condition to implement the rooster model in other way
+
+4) implemented the parrot model with 3 living conditions. Run the solution file "question 4"
+a)used if condition in parrotliving file
+b)used if condition in parrotliving file
+c)used if condition in parrotliving file
+d) added two more conditions with respect to ducks and phone
